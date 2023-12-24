@@ -1,0 +1,3 @@
+
+jpython:S1854"FRemove this assignment to local variable 'b'; the value is never used.(±ğÏúùÿÿÿÿ8õ˜ÿ”É1
+Zpython:S3827";b is used before it is defined. Move the definition before.(éœÖí8ö˜ÿ”É1
